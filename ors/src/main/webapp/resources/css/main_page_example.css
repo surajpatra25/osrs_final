@@ -1,0 +1,26 @@
+
+	font-size:0px; /* removes the unwanted spaces between divs. there are other ways to do it as well*/
+
+    overflow:hidden; /*good to hide when the screen contracts*/
+
+	/*display:table; *//*displaying the links in box pattern*/
+
+	vertical-align:top; /* needed for the alignment of the list*/
+
+    overflow:hidden; /*good to hide when the screen contracts*/
+    margin:0px;
+
+
+	text-decoration:inherit; /*for removing the underline*/
+	font-size:16px; /* font size for the link elements*/
+
+	/*display:table; *//*displaying the links in box pattern*/
+
+	vertical-align:top; /* needed for the alignment of the list*/
+
+
+    display:none; /*not to acquire space */
+
+
+
+
