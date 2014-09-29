@@ -6,9 +6,7 @@
 </head>
 <body>
 
-<script src="resources/js/jquery-2.1.1.min.js"></script>
-<script src="resources/js/FacebookLogin.js"></script>
-<script src="resources/js/googlelogin.js"></script>
+<%@ include file="scripts_required.jsp" %>
 
 <div class="main_body">
 <div class="main">
